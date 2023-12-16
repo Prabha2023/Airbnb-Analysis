@@ -1,7 +1,7 @@
-Project stastus : Inprogress (Ongoing)
 
 
-# Airbnb-Analysis---GUVI-Capstones
+
+# Airbnb-Analysis
 
 This project aims to analyze Airbnb data using MongoDB Atlas, perform data cleaning and preparation, develop interactive geospatial visualizations, and create dynamic plots to gain insights into pricing variations, availability patterns, and location-based trends. The objectives are to:
 1.Establish a MongoDB connection, retrieve the Airbnb dataset, and ensure efficient data retrieval for analysis.
